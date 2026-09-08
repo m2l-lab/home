@@ -1,1 +1,1 @@
-Sitemap: https://m2l-lab.github.io/m2l/sitemap.xml
+Sitemap: https://m2l-lab.github.io/home/sitemap.xml
