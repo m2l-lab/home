@@ -1,282 +1,613 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1145/3765751
+  title: 'MANDO-LLM: Heterogeneous Graph Transformers with Large Language Models for
+    Smart Contract Vulnerability Detection'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Nhat-Minh Nguyen
+  - Hoang H. Nguyen
+  - Thanh Long Le
+  - Zahra Ahmadi
+  - Thanh-Nam Doan
+  - Daoyuan Wu
+  - Lingxiao Jiang
+  publisher: ACM Transactions on Software Engineering and Methodology
+  date: '2026-05-13'
+  link: https://doi.org/hcnzhd
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.inffus.2025.103500
+  title: 'SIREN: Scalable isotropic recursive column multimodal neural architecture'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Hubert Truchan
+  - Alan Farag
+  - Zahra Ahmadi
+  publisher: Information Fusion
+  date: '2026-01-01'
+  link: https://doi.org/hcnzhf
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/ACCESS.2026.3739458
+  title: A Two-Stage Wavelet-Driven Masked Autoencoder for Histopathology Representation
+    Learning
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Raneen Younis
+  - Louay Hamdi
+  - Lukas Chavez
+  - Zahra Ahmadi
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hcnzhg
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.2139/ssrn.6382373
+  title: "Cross-Modal Binary Attention: An Energy-Efficient\_Fusion Framework for\
+    \ Audio-Visual Learning"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Mohamed Saleh
+  - Zahra Ahmadi
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hcnzhh
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.2139/ssrn.6486407
+  title: Orthogonalized Multimodal Contrastive Learning with Asymmetric Masking for
+    Structured Representations
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Carolin Cissee
+  - Raneen Younis
+  - Zahra Ahmadi
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hcnzhj
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.dib.2025.111905
+  title: Nonastreda multimodal dataset for efficient tool wear state monitoring
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Hubert Truchan
+  - Zahra Ahmadi
+  publisher: Data in Brief
+  date: '2025-10-01'
+  link: https://doi.org/hcnzhk
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1145/3701551.3708810
+  title: Using Photon-Counting CT Images for Lung Nodule Classification
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Leonie Basso
+  - Zahra Ahmadi
+  - Steffen Oeltze-Jafra
+  - Eike Petersen
+  - Hoen-oh Shin
+  - Andrea Schenk
+  publisher: Proceedings of the Eighteenth ACM International Conference on Web Search
+    and Data Mining
+  date: '2025-03-10'
+  link: https://doi.org/g9grj5
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1145/3627673.3679772
+  title: Effectively Capturing Label Correlation for Tabular Multi-Label Classification
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Sajjad Kamali Siahroudi
+  - Zahra Ahmadi
+  - Daniel Kudenko
+  publisher: Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management
+  date: '2024-10-21'
+  link: https://doi.org/hcnzhm
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1145/3627673.3679527
+  title: 'LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for
+    the Long-term Time Series Forecasting'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Hubert Truchan
+  - Christian Kalfar
+  - Zahra Ahmadi
+  publisher: Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management
+  date: '2024-10-21'
+  link: https://doi.org/hcnzhn
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1016/j.patcog.2024.110486
+  title: 'MTS2Graph: Interpretable multivariate time series classification with temporal
+    evolving graphs'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Raneen Younis
+  - Abdul Hakmeh
+  - Zahra Ahmadi
+  publisher: Pattern Recognition
+  date: '2024-08-01'
+  link: https://doi.org/hcnzhp
+  orcid: 0000-0003-1110-4756
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/978-981-99-8079-6_14
+  title: "Multimodal Isotropic Neural Architecture with\_Patch Embedding"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Hubert Truchan
+  - Evgenii Naumov
+  - Rezaul Abedin
+  - Gregory Palmer
+  - Zahra Ahmadi
+  publisher: Lecture Notes in Computer Science
+  date: '2023-11-14'
+  link: https://doi.org/hcnzhq
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jocs.2023.102063
+  title: Inductive and transductive link prediction for criminal network analysis
+  authors:
+  - Zahra Ahmadi
+  - Hoang H. Nguyen
+  - Zijian Zhang
+  - Dmytro Bozhkov
+  - Daniel Kudenko
+  - Maria Jofre
+  - Francesco Calderoni
+  - Noa Cohen
+  - Yosef Solewicz
+  publisher: Journal of Computational Science
+  date: '2023-09-01'
+  link: https://doi.org/gt47tq
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3580305.3599354
+  title: 'FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification
+    Framework'
+  authors:
+  - Raneen Younis
+  - Zahra Ahmadi
+  - Abdul Hakmeh
+  - Marco Fisichella
+  publisher: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2023-08-04'
+  link: https://doi.org/hcnzhr
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4331130
+  title: Inductive and Transductive Link Prediction for Criminal Network Analysis
+  authors:
+  - Zahra Ahmadi
+  - Hoang H. Nguyen
+  - Zijian Zhang
+  - Dmytro Bozhkov
+  - Daniel Kudenko
+  - Maria Jofre
+  - Francesco Calderoni
+  - Noa Cohen
+  - Yosef Solewicz
+  publisher: Elsevier BV
+  date: '2023-01-01'
+  link: https://doi.org/hcnzhs
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MSR59073.2023.00052
+  title: 'MANDO-HGT: Heterogeneous Graph Transformers for Smart Contract Vulnerability
+    Detection'
+  authors:
+  - Hoang H. Nguyen
+  - Nhat-Minh Nguyen
+  - Chunyao Xie
+  - Zahra Ahmadi
+  - Daniel Kudendo
+  - Thanh-Nam Doan
+  - Lingxiao Jiang
+  publisher: 2023 IEEE/ACM 20th International Conference on Mining Software Repositories
+    (MSR)
+  date: '2023-05-01'
+  link: https://doi.org/hcnzht
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23318422
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4532333
+  title: 'Mts2graph: Interpretable Multivariate Time Series Classification with Temporal
+    Evolving Graphs'
+  authors:
+  - Raneen Younis
+  - Abdul Hakmeh
+  - Zahra Ahmadi
+  publisher: Elsevier BV
+  date: '2023-01-01'
+  link: https://doi.org/hcnzhv
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3477495.3531735
+  title: SoChainDB
+  authors:
+  - Hoang H. Nguyen
+  - Dmytro Bozhkov
+  - Zahra Ahmadi
+  - Nhat-Minh Nguyen
+  - Thanh-Nam Doan
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/hcnzhw
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3540250.3558927
+  title: 'MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous
+    graph embeddings'
+  authors:
+  - Hoang H. Nguyen
+  - Nhat-Minh Nguyen
+  - Hong-Phuc Doan
+  - Zahra Ahmadi
+  - Thanh-Nam Doan
+  - Lingxiao Jiang
+  publisher: Proceedings of the 30th ACM Joint European Software Engineering Conference
+    and Symposium on the Foundations of Software Engineering
+  date: '2022-11-07'
+  link: https://doi.org/grdzxx
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/DSAA54385.2022.10032337
+  title: 'MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection
+    of Smart Contract Vulnerabilities'
+  authors:
+  - Hoang H. Nguyen
+  - Nhat-Minh Nguyen
+  - Chunyao Xie
+  - Zahra Ahmadi
+  - Daniel Kudendo
+  - Thanh-Nam Doan
+  - Lingxiao Jiang
+  publisher: 2022 IEEE 9th International Conference on Data Science and Advanced Analytics
+    (DSAA)
+  date: '2022-10-13'
+  link: https://doi.org/gsjszn
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2208.13252
+  title: 'MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection
+    of Smart Contract Vulnerabilities'
+  authors:
+  - Hoang H. Nguyen
+  - Nhat-Minh Nguyen
+  - Chunyao Xie
+  - Zahra Ahmadi
+  - Daniel Kudendo
+  - Thanh-Nam Doan
+  - Lingxiao Jiang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hcnzhx
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/DSAA54385.2022.10032335
+  title: 'Multivariate Time Series Analysis: An Interpretable CNN-based Model'
+  authors:
+  - Raneen Younis
+  - Sergej Zerr
+  - Zahra Ahmadi
+  publisher: 2022 IEEE 9th International Conference on Data Science and Advanced Analytics
+    (DSAA)
+  date: '2022-10-13'
+  link: https://doi.org/hcnzhz
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3486622.3493960
+  title: On the Impact of Dataset Size:A Twitter Classification Case Study
+  authors:
+  - Thi Huyen Nguyen
+  - Hoang H. Nguyen
+  - Zahra Ahmadi
+  - Tuan-Anh Hoang
+  - Thanh-Nam Doan
+  publisher: IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent
+    Agent Technology
+  date: '2021-12-14'
+  link: https://doi.org/hcnzh2
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2102.02086
+  title: Focusing Knowledge-based Graph Argument Mining via Topic Modeling
+  authors:
+  - Patrick Abels
+  - Zahra Ahmadi
+  - Sophie Burkhardt
+  - Benjamin Schiller
+  - Iryna Gurevych
+  - Stefan Kramer
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/hcnzh3
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/frai.2021.642263
+  title: Rule Extraction From Binary Neural Networks With Convolutional Rules for
+    Model Validation
+  authors:
+  - Sophie Burkhardt
+  - Jannis Brugger
+  - Nicolas Wagner
+  - Zahra Ahmadi
+  - Kristian Kersting
+  - Stefan Kramer
+  publisher: Frontiers in Artificial Intelligence
+  date: '2021-07-21'
+  link: https://doi.org/hcnzh4
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25358/openscience-6523
+  title: Rule extraction from binary neural networks with convolutional rules for
+    model validation
+  authors:
+  - Sophie Burkhardt
+  - Jannis Brugger
+  - Nicole Wagner
+  - Zahra Ahmadi
+  - Kristian Kersting
+  - Stefan Kramer
+  publisher: Frontiers Media
+  date: '2021-01-01'
+  link: https://doi.org/hcnzh5
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICKG52313.2021.00049
+  title: Topic-Guided Knowledge Graph Construction for Argument Mining
+  authors:
+  - Weichen Li
+  - Patrick Abels
+  - Zahra Ahmadi
+  - Sophie Burkhardt
+  - Benjamin Schiller
+  - Iryna Gurevych
+  - Stefan Kramer
+  publisher: 2021 IEEE International Conference on Big Knowledge (ICBK)
+  date: '2021-12-01'
+  link: https://doi.org/gpmkqp
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Modeling Recurring Concepts in Single-label and Multi-label Streams
+  date: '2022-09-01'
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2012.08459
+  title: Rule Extraction from Binary Neural Networks with Convolutional Rules for
+    Model Validation
+  authors:
+  - Sophie Burkhardt
+  - Jannis Brugger
+  - Nicolas Wagner
+  - Zahra Ahmadi
+  - Kristian Kersting
+  - Stefan Kramer
+  publisher: arXiv
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://doi.org/hcnzh6
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICBK.2019.00010
+  title: Modeling Multi-label Recurrence in Data Streams
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: 2019 IEEE International Conference on Big Knowledge (ICBK)
+  date: '2019-11-01'
+  link: https://doi.org/hcnzh7
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-13463-1_10
+  title: Privacy Preserving Client/Vertical-Servers Classification
+  authors:
+  - Derian Boer
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/hcnzh8
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patrec.2018.04.015
+  title: A label compression method for online multi-label classification
+  authors:
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: Pattern Recognition Letters
+  date: '2018-08-01'
+  link: https://doi.org/gd4drt
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10115-017-1070-0
+  title: 'Modeling recurring concepts in data streams: a graph-based framework'
+  authors:
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: Knowledge and Information Systems
+  date: '2017-06-12'
+  link: https://doi.org/gc7c3s
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/DSAA.2018.00030
+  title: 'Forest of Normalized Trees: Fast and Accurate Density Estimation of Streaming
+    Data'
+  authors:
+  - Patrick Rehn
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics
+    (DSAA)
+  date: '2018-10-01'
+  link: https://doi.org/g78nfz
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.1804.01491
+  title: 'Online Multi-Label Classification: A Label Compression Method'
+  authors:
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: arXiv
+  date: '2018-01-01'
+  link: https://doi.org/hcnzh9
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/DSAA.2018.00040
+  title: 'Towards Bankruptcy Prediction: Deep Sentiment Mining to Detect Financial
+    Distress from Business Management Reports'
+  authors:
+  - Zahra Ahmadi
+  - Peter Martens
+  - Christopher Koch
+  - Thomas Gottron
+  - Stefan Kramer
+  publisher: 2018 IEEE 5th International Conference on Data Science and Advanced Analytics
+    (DSAA)
+  date: '2018-10-01'
+  link: https://doi.org/hcnzjb
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-67786-6_11
+  title: An In-Depth Experimental Comparison of RNTNs and CNNs for Sentence Modeling
+  authors:
+  - Zahra Ahmadi
+  - Marcin Skowron
+  - Aleksandrs Stier
+  - Stefan Kramer
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/djzj
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:16130073
+  title: Making sure you're not a bot!
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/16130073
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/978-1-61499-419-0-519
+  title: Constrained Latent Dirichlet Allocation for Subgroup Discovery with Topic
+    Rules
+  authors:
+  - ' Li Rui'
+  - ' Ahmadi Zahra'
+  - ' Kramer Stefan'
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2014-01-01'
+  link: https://doi.org/hcnzjc
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/2623330.2623609
+  title: Prototype-based learning on concept-drifting data streams
+  authors:
+  - Junming Shao
+  - Zahra Ahmadi
+  - Stefan Kramer
+  publisher: Proceedings of the 20th ACM SIGKDD international conference on Knowledge
+    discovery and data mining
+  date: '2014-08-24'
+  link: https://doi.org/hcnzjd
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Using a classifier pool in accuracy based tracking of recurring concepts
+    in data stream classification
+  publisher: LWA 2013 - Lernen, Wissen and Adaptivitat, Workshop Proceedings
+  date: '2022-09-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094326148&partnerID=MN8TOARS
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12530-012-9064-3
+  title: Using a classifier pool in accuracy based tracking of recurring concepts
+    in data stream classification
+  authors:
+  - Mohammad Javad Hosseini
+  - Zahra Ahmadi
+  - Hamid Beigy
+  publisher: Evolving Systems
+  date: '2012-10-09'
+  link: https://doi.org/hcnzjf
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-32584-7_27
+  title: New Management Operations on Classifiers Pool to Track Recurring Concepts
+  authors:
+  - Mohammad Javad Hosseini
+  - Zahra Ahmadi
+  - Hamid Beigy
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/hcnzjg
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-28931-6_50
+  title: Semi-supervised Ensemble Learning of Data Streams in the Presence of Concept
+    Drift
+  authors:
+  - Zahra Ahmadi
+  - Hamid Beigy
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/hcnzjh
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDMW.2011.137
+  title: 'Pool and Accuracy Based Stream Classification: A New Ensemble Algorithm
+    on Data Stream Classification Using Recurring Concepts Detection'
+  authors:
+  - Mohammad Javad Hosseini
+  - Zahra Ahmadi
+  - Hamid Beigy
+  publisher: 2011 IEEE 11th International Conference on Data Mining Workshops
+  date: '2011-12-01'
+  link: https://doi.org/fxrpp8
+  orcid: 0000-0003-1110-4756
+  plugin: orcid.py
+  file: orcid.yaml

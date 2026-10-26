@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: m2l-lab
+title: Medical Machine Learning Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: Clinical decisions are made with incomplete, noisy, and heterogeneous data under uncertainty. At M2L Lab, we develop AI methods that support clinicians with reliable, interpretable, and scalable intelligence. Our research focuses on scalable and efficient learning across medical modalities, interpretability and reasoning, and robustness and human-centeredness, aiming for reliable and trustworthy AI in medicine. 
+header: 
+footer: 
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@m2l-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: mtwol.lab@gmail.com
+  orcid: 0000-0003-1110-4756
+  google-scholar: QdQRYyAAAAAJ&hl
   github: m2l-lab
-  twitter: m2l-lab
-  youtube: m2l-lab
+  linkedin_lab: company/130474290
 
 ### jekyll settings
 
