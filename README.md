@@ -5,6 +5,6 @@
 
   # m2l-lab's Website
 
-  Visit **[m2l-lab.github.io/home](https://m2l-lab.github.io/home)** 🚀
+  Visit **[caro-ci.github.io/home](https://caro-ci.github.io/home)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

@@ -1,65 +1,19 @@
 ---
 ---
 
-# m2l-lab's Website
+# Welcome to Medical Machine Learning (M2L) Lab
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Clinical decisions are made with incomplete, noisy, and heterogeneous data under uncertainty. At M2L Lab, we develop AI methods that support clinicians with reliable, interpretable, and scalable intelligence. Our research focuses on scalable and efficient learning across medical modalities, interpretability and reasoning, and robustness and human-centeredness, aiming for reliable and trustworthy AI in medicine. 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="projects"
+  text="Learn more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+M2L Lab is led by Dr. Zahra Ahmadi and is located at the Peter L. Reichertz Institute for Medical Informatics of TU Braunschweig and Medical School Hannover, with the teams offices at the site of Medical School Hannover.
 
 {%
   include button.html
@@ -74,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group_picture.jpg"
   link="team"
   title="Our Team"
   text=text

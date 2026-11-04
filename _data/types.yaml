@@ -16,11 +16,15 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Student
 
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+  
+project-management:
+  icon: fa-solid fa-glasses
+  description: Project Manager
 
 mascot:
   icon: fa-solid fa-dog
@@ -119,6 +123,12 @@ youtube:
   text: YouTube
   tooltip: YouTube
   link: https://youtube.com/$VALUE
+
+linkedin_lab:
+  icon: fa-brands fa-linkedin
+  text: LinkedIn
+  tooltip: LinkedIn
+  link: https://www.linkedin.com/$VALUE
 
 linkedin:
   icon: fa-brands fa-linkedin
